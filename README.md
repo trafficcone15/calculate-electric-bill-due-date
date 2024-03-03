@@ -1,3 +1,5 @@
+# Electric Bill Due Date Calculator
+
 Simple python script to calculate electric bill due dates for certain energy providers in New Zealand.
 
 Certain energy providers in New Zealand do not issue invoices and due dates consistently on the same dates every month.
